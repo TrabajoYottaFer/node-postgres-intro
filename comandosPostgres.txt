@@ -1,0 +1,5 @@
+sudo -u postgres psql --> entrar a postgres
+\l --> listar bases de datos
+\q --> salir de postgres
+\c library --> acceder a una base de datos (library)
+\dt --> listar las tablas
